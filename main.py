@@ -11,8 +11,8 @@ data = [
     3.18,
     2.66,
     5.00,
-    1500.0,  # Out-liner
-    3000.0]  # Out-liner
+    1500.0,  # Outlier
+    3000.0]  # Outlier
 
 math_operations = AdvancedAverage(precision=4)
 
