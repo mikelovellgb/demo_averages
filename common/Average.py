@@ -2,7 +2,7 @@ from typing import List
 import numpy as np
 
 
-class AdvancedMath:
+class AdvancedAverage:
     """
     A class to perform various mathematical operations on a list of floats,
     including calculating averages and quantile averages with specified precision.
